@@ -1,2 +1,2 @@
-#!/bin/bash
-pwd
+#!/bin/bash vi 0-current_working_directory
+pwd vi 0-current_working_directory
